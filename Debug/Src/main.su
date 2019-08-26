@@ -1,0 +1,12 @@
+main.c:80:1:eMBRegInputCB	24	static
+main.c:108:1:eMBRegHoldingCB	32	static
+main.c:151:1:eMBRegCoilsCB	24	static
+main.c:158:1:eMBRegDiscreteCB	16	static
+main.c:165:6:__critical_enter	4	static,ignoring_inline_asm
+main.c:170:6:__critical_exit	4	static,ignoring_inline_asm
+main.c:185:5:main	24	static
+main.c:242:6:SystemClock_Config	72	static
+main.c:279:13:MX_TIM6_Init	16	static
+main.c:317:13:MX_USART2_UART_Init	8	static
+main.c:350:13:MX_GPIO_Init	24	static
+main.c:368:6:Error_Handler	4	static

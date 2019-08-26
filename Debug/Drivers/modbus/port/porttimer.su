@@ -1,0 +1,5 @@
+porttimer.c:15:1:xMBPortTimersInit	16	static
+porttimer.c:22:1:vMBPortTimersEnable	8	static
+porttimer.c:30:1:vMBPortTimersDisable	8	static
+porttimer.c:40:13:prvvTIMERExpiredISR	8	static
+porttimer.c:45:6:HAL_TIM_PeriodElapsedCallback	16	static

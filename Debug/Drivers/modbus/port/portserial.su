@@ -1,0 +1,9 @@
+portserial.c:15:1:vMBPortSerialEnable	16	static
+portserial.c:40:1:xMBPortSerialInit	16	static
+portserial.c:87:1:xMBPortSerialPutByte	16	static
+portserial.c:97:1:xMBPortSerialGetByte	16	static
+portserial.c:119:6:prvvUARTTxReadyISR	8	static
+portserial.c:129:6:prvvUARTRxISR	8	static
+portserial.c:134:19:USART_Init	16	static
+portserial.c:189:6:USART_MspInit	48	static
+portserial.c:281:13:USART_SetConfig	32	static
